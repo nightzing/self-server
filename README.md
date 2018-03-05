@@ -9,7 +9,7 @@
 ## Start
 
 ```
-    hope-server
+    self-server
 ```
 
 ## 配置
@@ -23,4 +23,4 @@
   -h           显示帮助信息                
 
 示例：
-  hope-server -d / -p 9090 -o localhost  在本机的9090端口上监听客户端的请求
+  self-server -d / -p 9090 -o localhost  在本机的9090端口上监听客户端的请求
